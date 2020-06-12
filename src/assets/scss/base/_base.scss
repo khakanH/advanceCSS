@@ -1,0 +1,15 @@
+
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+html{
+    // this is use for benchmark for rem size
+    font-size: 62.5%;
+}
+body{
+    box-sizing: border-box;
+}
