@@ -2,13 +2,13 @@
     width:$grid-width;
     margin:0 auto;
     font-size:2rem;
-    background-color:orangered;
+//    background-color:orangered;
     &:not(:last-child){
     margin-bottom:$gutter-vertical;
     }
     @include clearfix;
     [class^=col-]{
-        background-color:orange;
+  //      background-color:orange;
         float:left;
         &:not(:last-child){
             margin-right:$gutter-horizontal
