@@ -4,15 +4,16 @@ import logo from './logo.svg';
 import './assets/scss/main.scss';
 import Header from './components/header';
 import Grid from './components/grid';
-import Main from './components/main.jsx';
+import About from './components/about.jsx';
+import Features from './components/feature.jsx';
 import State from './context/state';
 function App() {
   return (
     <State>
     <div className="app">
       <Header/>
-      <Main/>
-
+      <About/>
+      <Features/>
       <Grid/>
     </div>
     </State>

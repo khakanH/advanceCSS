@@ -13,6 +13,7 @@ const Header = (props) => {
                     <span className="heading-primary--sub">is where life happens</span>
                 </h1>
                 <a href="#about" className="btn btn--white btn--animation">Discover our tour</a>
+               
             </div>
 
         </div>

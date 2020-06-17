@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import Context from '../context/context'
-const Main = (props) => {
+const About = (props) => {
     const { name } = useContext(Context)
     return (
         <div className="section-about" id="about">
@@ -8,7 +8,7 @@ const Main = (props) => {
         <h2 className="heading-secondary">
         Excitng tour for adventurours people
          </h2>
-</div>
+        </div>
           <div class="row">
             <div className="col-1-2">
             <h3 className="heading-tertiary u-margin-bottom-small">We are going to fall in love with nature </h3>
@@ -18,6 +18,7 @@ const Main = (props) => {
             <h3 className="heading-tertiary u-margin-bottom-small">live adventurours like you never had before </h3>
             <p className="paragraph"> Proin aliquam lacus tincidunt odio euismod consequat ut et massa. In mollis, diam ac placerat feugiat, lorem felis vulputate nibh, quis facilisis erat tellus eget arcu. Pellentesque viverra, nisi ultricies porta eleifend,</p>
                 <a href="#" className="btn-text">Learn more &rarr;</a>
+               
             </div>  
 
         
@@ -31,7 +32,8 @@ const Main = (props) => {
             </div>    
         
          </div>
+         
         </div>
     )
 }
-export default Main
+export default About
