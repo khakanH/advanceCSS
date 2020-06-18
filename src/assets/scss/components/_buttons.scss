@@ -45,6 +45,15 @@ transition: all .4s;
     }
 }
 
+&--green{
+    background-color: $color-primary;
+    color: $color-white;
+    /* letter-spacing: 1rem; */
+    &::after{
+        background-color: $color-primary;
+        color:$color-white;
+    }
+}
 &--animation{
     animation: moveInBottom .2s ease-out  .75s;
     animation-fill-mode: backwards;

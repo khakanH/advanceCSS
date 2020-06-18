@@ -6,6 +6,7 @@ import Header from './components/header';
 import Grid from './components/grid';
 import About from './components/about.jsx';
 import Features from './components/feature.jsx';
+import Tours from './components/tours.jsx';
 import State from './context/state';
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Header/>
       <About/>
       <Features/>
+      <Tours/>
       <Grid/>
     </div>
     </State>
