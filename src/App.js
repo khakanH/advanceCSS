@@ -8,6 +8,9 @@ import About from './components/about.jsx';
 import Features from './components/feature.jsx';
 import Tours from './components/tours.jsx';
 import Story from './components/story.jsx';
+import FetchRandomUser from './components/rahdomapi.jsx';
+import AxiosAPI from './components/axios';
+import Instagram from './components/instagramapi.jsx';
 import State from './context/state';
 function App() {
   return (
@@ -18,6 +21,9 @@ function App() {
       <Features/>
       <Tours/>
       <Story/>
+      <FetchRandomUser/>
+      <AxiosAPI/>
+      <Instagram/>
       <Grid/>
     </div>
     </State>
