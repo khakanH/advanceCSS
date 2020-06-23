@@ -11,6 +11,7 @@ import Story from './components/story.jsx';
 import FetchRandomUser from './components/rahdomapi.jsx';
 import AxiosAPI from './components/axios';
 import Instagram from './components/instagramapi.jsx';
+import Booking from './components/booking.jsx';
 import State from './context/state';
 function App() {
   return (
@@ -21,9 +22,13 @@ function App() {
       <Features/>
       <Tours/>
       <Story/>
+      <Booking/>
+<br/>
       <FetchRandomUser/>
       <AxiosAPI/>
       <Instagram/>
+
+      
       <Grid/>
     </div>
     </State>
