@@ -12,22 +12,26 @@ import FetchRandomUser from './components/rahdomapi.jsx';
 import AxiosAPI from './components/axios';
 import Instagram from './components/instagramapi.jsx';
 import Booking from './components/booking.jsx';
+import Footer from './components/footer.jsx';
+import Navigation from './components/navigation.jsx';
 import State from './context/state';
 function App() {
   return (
     <State>
     <div className="app">
+    <Navigation/>
       <Header/>
       <About/>
       <Features/>
       <Tours/>
       <Story/>
       <Booking/>
+      <Footer/>
 <br/>
       <FetchRandomUser/>
       <AxiosAPI/>
       <Instagram/>
-
+insta
       
       <Grid/>
     </div>
@@ -35,3 +39,4 @@ function App() {
   );
 }
 export default App;
+

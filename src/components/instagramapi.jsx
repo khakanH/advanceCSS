@@ -9,7 +9,7 @@ class Instagram extends React.Component {
         }
       }
     componentDidMount() {
-        let token = 'IGQVJXMWNKRDU4ZA3d2Rl9yWndUbUhES0t0NTBtUGZADZAXFBYzc2MHJjdkRENUxVU3phQ1lEa01fc1lzcGFYR1ViQjdsOXhZAanFWRG95UDMtZA1pBdWNsVDI3dnp4RlM4UDh6cFFJeDM3WmRTWWJPSVB6ZAgZDZ';
+        let token = 'IGQVJXSE8wTXhsNWpyV2UyYnFXZA2l3SXRjS1prLWFkXzdNZAVlPaWZAwZAGpQaDlGVWZAOcGpyUF9USVJuUDRzZAmg0VjJfOVh3WXZA4WkFvbkF3dFpjODFDQmRrT1dFUVM0ZA0VQeUZAUQWtNUnRMWTZALY1RTUwZDZD';
         let num_photos = 5;
         //https://api.instagram.com/v1/users/self/media/recent/?access_token=ACCESS-TOKEN
         axios.get('https://api.instagram.com/v1/users/self/media/recent/?access_token=' + token + '&count=' + num_photos)
