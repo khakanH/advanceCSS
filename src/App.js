@@ -19,6 +19,7 @@ function App() {
   return (
     <State>
     <div className="app">
+    
     <Navigation/>
       <Header/>
       <About/>

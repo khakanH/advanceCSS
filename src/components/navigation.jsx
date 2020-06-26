@@ -5,7 +5,9 @@ const Navigation = (props) => {
     return (
         <div className="navigation" id="navigation">
             <input type="checkbox" className="navigation__checkbox" id="navi-toggle"/>
-            <label for="navi-toggle" className="navigation__button">Menu</label>
+            <label for="navi-toggle" className="navigation__button">
+            <span  className="navigation__icon">&nbsp;</span></label>
+           
         <div className="navigation__background">&nbps;</div>
             <div className="navigation__nav">
                 <ul className="navigation__list">
