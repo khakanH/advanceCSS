@@ -14,6 +14,7 @@ import Instagram from './components/instagramapi.jsx';
 import Booking from './components/booking.jsx';
 import Footer from './components/footer.jsx';
 import Navigation from './components/navigation.jsx';
+import PopUp from './components/popup.jsx';
 import State from './context/state';
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
       <Story/>
       <Booking/>
       <Footer/>
+      <PopUp/>
 <br/>
       <FetchRandomUser/>
       <AxiosAPI/>

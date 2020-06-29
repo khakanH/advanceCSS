@@ -36,7 +36,7 @@ const Tours = (props) => {
                 <p className="card__price-only">Only</p>
                 <p className="card__price-value">$270</p>
                 </div>
-                 <a href="#about" className="btn btn--white btn--animation">Book Now</a>
+                 <a href="#popup" className="btn btn--white btn--animation">Book Now</a>
                 </div>
 
                 </div>
@@ -68,7 +68,7 @@ const Tours = (props) => {
                 <p className="card__price-only">Only</p>
                 <p className="card__price-value">$497</p>
                 </div>
-                 <a href="#about" className="btn btn--white btn--animation">Book Now</a>
+                 <a href="#popup" className="btn btn--white btn--animation">Book Now</a>
                 </div>
 
                 </div>
@@ -101,7 +101,7 @@ const Tours = (props) => {
                 <p className="card__price-only">Only</p>
                 <p className="card__price-value">$597</p>
                 </div>
-                 <a href="#about" className="btn btn--white btn--animation">Book Now</a>
+                 <a href="#popup" className="btn btn--white btn--animation">Book Now</a>
                 </div>
 
                 </div>
