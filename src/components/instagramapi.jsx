@@ -148,7 +148,3 @@ export default Instagram;
 
 
 
-// bro the issue which we discuss is hanged is is throught error in console bcz the api key is not supported 
-// i followed the same steps make and account , add instagram tester , and verification , approve tester , genrate token 
-// i use another this which instagram embeded code which we get form instagram code and paste here in our code, it is showing the embeded thing which we get form instagram ... that code is use in our public file with same outlook of instagram post 
-// tomorrow i will again work on it ... had sent a request for feeds api hopefully it will aprove 
