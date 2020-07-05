@@ -35,4 +35,15 @@
       "last 1 safari version"
     ]
   }
+  "keywords": [
+    "NodeSaas":"4.14.1",
+    "ReactStrap":"8.4.1",
+    "ToursTemplate",
+    "Portfolio"
+  ],
+  "author": "KhakanHayder <r.khakanworkspace.5@gmail.com> (https://khakanhayder.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khakanH/TourSinglePager/issues"
+  },
 }
