@@ -36,12 +36,12 @@
     ]
   }
   "keywords": [
-    "NodeSaas":"4.14.1",
-    "ReactStrap":"8.4.1",
+    "NodeSaas",
+    "ReactStrap",
     "ToursTemplate",
     "Portfolio"
   ],
-  "author": "KhakanHayder <r.khakanworkspace.5@gmail.com> (https://khakanhayder.com/)",
+  "author": "KhakanHayder <r.khakanworkspace.5@gmail.com> (https://www.upwork.com/freelancers/~01bf545e58420e699e)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/khakanH/TourSinglePager/issues"
