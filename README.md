@@ -1,6 +1,6 @@
 ## Tour Single Pager
 
-![GitHub All Releases](https://img.shields.io/github/downloads/khakanH/TourSinglePager/total?color=%232ecc71&label=Release&logo=GitHub&style=flat-square) ![Dependents (via libraries.io)](https://img.shields.io/librariesio/dependents/npm/my-app?color=%23CB3837&label=NPM%20dependency&logo=NPM&style=flat-square)
+![GitHub All Releases](https://img.shields.io/github/downloads/khakanH/TourSinglePager/total?color=%232ecc71&label=Release&logo=GitHub&style=flat-square) ![npm](https://img.shields.io/npm/v/npm?color=%23CB3837&logo=NPM&logoColor=%23fff&style=flat-square) ![Dependents (via libraries.io)](https://img.shields.io/librariesio/dependents/npm/my-app?color=%23CB3837&label=NPM%20dependency&logo=NPM&style=flat-square) ![GitHub repo size](https://img.shields.io/github/repo-size/khakanH/TourSinglePager?color=%23f1c40f&label=Size&style=flat-square)
 
 
  This is React Templete 
