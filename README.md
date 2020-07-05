@@ -20,7 +20,7 @@ once it is done. Now, run the command <br />
   `npm start` or   `yarn start`
 
 If you are facing problem you can reach me out here or you can get help from the official site <br />
-Open [https://docs.npmjs.com/](Npm) and open[https://yarnpkg.com/](yarn)
+Open [https://docs.npmjs.com/](Npm) and open [https://yarnpkg.com/](yarn)
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -37,4 +37,4 @@ I will remove it from final release.
   
  ## How can i contribute on this prject?
  
- You can contact me here and Open[https://github.com/khakanH/TourSinglePager/blob/master/contributing.md](Check this first)
+ You can contact me here and Check this [https://github.com/khakanH/TourSinglePager/blob/master/contributing.md](contributing)
