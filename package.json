@@ -34,16 +34,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "keywords": [
-    "NodeSaas",
-    "ReactStrap",
-    "ToursTemplate",
-    "Portfolio"
-  ],
-  "author": "KhakanHayder <r.khakanworkspace.5@gmail.com> (https://www.upwork.com/freelancers/~01bf545e58420e699e)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/khakanH/TourSinglePager/issues"
   }
+  
 }
