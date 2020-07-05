@@ -34,7 +34,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
   "keywords": [
     "NodeSaas",
     "ReactStrap",
@@ -45,5 +45,5 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/khakanH/TourSinglePager/issues"
-  },
+  }
 }
