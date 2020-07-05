@@ -34,6 +34,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "author": "Khakan Hayder <r.Khakanworkspace.5@gmail.com> (https://www.upwork.com/agencies/~01783de43e601e6213)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khakanH/TourSinglePager/issues"
+  },
+  "homepage": "https://github.com/khakanH/TourSinglePager/issues#readme"
   
 }
