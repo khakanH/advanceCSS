@@ -1,3 +1,12 @@
+## Tour Single Pager
+
+![GitHub All Releases](https://img.shields.io/github/downloads/khakanH/TourSinglePager/total?color=%232ecc71&label=Release&logo=GitHub&style=flat-square) ![Dependents (via libraries.io)](https://img.shields.io/librariesio/dependents/npm/my-app?color=%23CB3837&label=NPM%20dependency&logo=NPM&style=flat-square)
+
+
+ This is React Templete 
+
+![GitHub All Releases](https://img.shields.io/github/downloads/khakanH/TourSinglePager/total?color=%232ecc71&label=Release&logo=GitHub&style=flat-square)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
